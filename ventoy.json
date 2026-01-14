@@ -1,0 +1,14 @@
+{
+    "theme": {
+        "file": "/ventoy/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "serial_param": "--unit=0 --speed=9600",
+        "ventoy_left": "10000000%",
+        "ventoy_top": "190000000%",
+        "ventoy_color": "#0000ff",
+        "fonts": [
+            "/Ventoy/ubuntur20.pf2"
+        ]
+    }
+}
