@@ -30,14 +30,6 @@ terminal-border: "0"
 }
 
 + image {
-    left = 100%-118
-    top = 0           
-    width = 156        
-    height = 63       
-    file = "SH.png" 
-}
-
-+ image {
     left = 29%
     top = 43%          
     file = "menu.png" 
