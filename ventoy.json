@@ -4,9 +4,9 @@
         "gfxmode": "1920x1080",
         "display_mode": "GUI",
         "serial_param": "--unit=0 --speed=9600",
-        "ventoy_left": "10000000%",
-        "ventoy_top": "190000000%",
-        "ventoy_color": "#0000ff",
+	    "ventoy_left": "100%+100",
+	    "ventoy_top": "100%+100",
+	    "ventoy_color": "#000000",
         "fonts": [
             "/Ventoy/ubuntur20.pf2"
         ]
